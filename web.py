@@ -7,7 +7,6 @@ def add_todo():
     todos.append(todo)
     functions.write_todos(todos)
 
-
 st.title("The Todo App")
 st.subheader("Web Version.")
 st.write("This app is going into the cloud!")
