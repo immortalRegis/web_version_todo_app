@@ -1,0 +1,3 @@
+Practice python
+Design web app with python
+Deploy app to web
