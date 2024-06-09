@@ -12,7 +12,6 @@ st.title("The Todo App")
 st.subheader("Web Version.")
 st.write("This app is going into the cloud!")
 
-
 for index, todo in enumerate(todos):
    box = st.checkbox(todo, key=todo)
    if box:
